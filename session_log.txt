@@ -1,0 +1,20 @@
+Router1941Version2#
+Router1941Version2#terminal width 511
+Router1941Version2#terminal length 0
+Router1941Version2#
+Router1941Version2#
+Router1941Version2#configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router1941Version2(config)#
+Router1941Version2(config)#hostname Router-1941
+Router-1941(config)#
+Router-1941(config)#end
+Router-1941#
+Router-1941#
+Router-1941#
+Router-1941#
+Router-1941#
+Router-1941#show run | include hostname
+hostname Router-1941
+Router-1941#
+Router-1941#exit
