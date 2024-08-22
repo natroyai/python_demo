@@ -10,7 +10,7 @@ device = {
 
 net_connect = ConnectHandler(**device)
 
-new_hostname = 'Router-1941'
+new_hostname = 'Router-1941-Python'
 config_commands = [f'hostname {new_hostname}']
 net_connect.send_config_set(config_commands)
 
