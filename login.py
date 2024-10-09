@@ -17,7 +17,8 @@ def load_variables():
 
     # Parse command line arguments
     args = sys.argv[1:]  # Exclude the script name
-
+    print(args)
+    
     # List of required variables
 
     # Assign arguments to the required variables
